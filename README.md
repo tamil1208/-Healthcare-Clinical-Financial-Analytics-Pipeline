@@ -1,6 +1,4 @@
 
-# -Healthcare-Clinical-Financial-Analytics-Pipeline
-.
 # 🏥 Healthcare Clinical & Financial Analytics Pipeline
 **An End-to-End ETL, Database Engineering, and Business Intelligence Architecture**
 
